@@ -11,6 +11,7 @@ import org.springframework.stereotype.Service;
 import java.util.ArrayList;
 
 /**
+ * <p>获取SAML登录后的用户名</p>
  *
  * @author MrLee
  */

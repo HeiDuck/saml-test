@@ -59,6 +59,12 @@
 			<artifactId>spring-boot-starter-web</artifactId>
 			<version>2.7.2</version>
 		</dependency>
+
+		<dependency>
+			<groupId>cn.hutool</groupId>
+			<artifactId>hutool-http</artifactId>
+			<version>5.8.2</version>
+		</dependency>
 	</dependencies>
 
 	<build>
